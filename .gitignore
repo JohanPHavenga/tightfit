@@ -20,3 +20,4 @@ application/logs/*
 *.csv
 *.pdf
 *.doc
+/nbproject/private/
